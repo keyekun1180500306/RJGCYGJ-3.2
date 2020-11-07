@@ -1,5 +1,5 @@
 package Implementation;
-
+//对C4的4个文件进行修改 文件之一：2.0\src\Implementation\Impl.java
 import java.util.Random;
 
 public class Impl {
